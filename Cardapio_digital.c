@@ -2,7 +2,9 @@
 
 int main() {
     int op, categoria, quant;
-    float total = 0, preco, desc = 0;
+    float total = 0;
+    float preco;
+    float desc = 0;
     char continuar;
 
     do {
